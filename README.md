@@ -1,7 +1,7 @@
 # rl-atari-skiing
 Solve [Skiing-v0](https://gym.openai.com/envs/Skiing-v0/) by Using Deep Reinforcement Learning.
 The main objective is to solve the ski game in different manners.
-It is quite an interesting and hard task becuase it gives almost rewards at the end of the game.
+It is quite an interesting and hard task because it gives almost rewards at the end of the game.
 
 - [Human Demonstrations](#human-demonstrations)
 - [Heuristic Markovian Agent](#heuristic-markovian-agent)
