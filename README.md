@@ -49,7 +49,7 @@ score = records['scores'][replay_id]
 ```
 
 ## Heuristic Markovian Agent
-As creating human demonstrations is expensive, a heuristic agent, who plays ski not that bad, can be useful to test or guide rl agents. The agent estimates velocity of the player and locations of flags and the player, and uses them to determine which direction is appropriate to go through between the flags. Because it looks only previous and current frames, it is a 2nd-order markivian agent. 
+As creating human demonstrations is expensive, a heuristic agent, who plays ski not that bad, can be useful to test or guide rl agents. The agent estimates velocity of the player and locations of flags and the player, and uses them to determine which direction is appropriate to go through between the flags. Because it looks only previous and current frames, it is a 2nd-order markovian agent. 
 
 ![play-heuristic-markovain-agent](resources/heuristic_markovian_agent.gif)
 
